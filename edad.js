@@ -1,0 +1,1 @@
+const mayor = (edad) => a>18;
