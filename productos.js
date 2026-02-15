@@ -4,3 +4,6 @@ const productos = [
     "mouse",
     "taza",
 ]
+
+const imprimirArreglo = (arreglo) => 
+    arreglo.forEach(element => console.log(element));
