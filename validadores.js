@@ -1,0 +1,1 @@
+const esMayor = (edad) => edad > 18;
